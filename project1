@@ -1,0 +1,11 @@
+Fulfillment Manager
+-------------------------------
+FM generates :
+
+Event 3
+Event 4
+Event 5
+
+FM copies Events 3,4,5 to MIE Landing zone.
+FM copies AFP,CYC files to PFSS Landing zone.
+
